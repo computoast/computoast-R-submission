@@ -4,26 +4,18 @@ project:
     - main.qmd
     - README.qmd
 
-title: "Template for contribution to Computo"
-subtitle: "Example dedicated to `R` users"
+title: "Mock R submission for Computo"
+subtitle: "A simple illustration"
 author:
-  - name: Jane Doe
+  - name: Computoast
     corresponding: true
-    email: janedoe@nowhere.moon
-    url: https://janedoe.someplace.themoon.org
+    email: computoast@proton.me
+    url: https://computoast.themoon.org
     orcid: 0000-0000-0000-0000
     affiliations:
-      - name: Name of Affiliation one
-        department: Statistics
-        url: https://someplace.themoon.org
-  - name: John Doe
-    email: johndoe@nowhere.moon
-    url: https://johndoe.someplace.themoon.org
-    orcid: 0000-0000-0000-0000
-    affiliations:
-      - name: Name of Affiliation two
-        department: Computer Science
-        url: https://someplace.themoon.org
+      - name: Computo Lab
+        department: Statistics and ML
+        url: https://computolabe.themoon.org
 date: last-modified
 date-modified: last-modified
 abstract: >+

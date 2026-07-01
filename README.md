@@ -1,6 +1,6 @@
-# Template for contribution to Computo
-Jane Doe, John Doe
-2026-06-30
+# Mock R submission for Computo
+Computoast
+2026-07-01
 
 [![build and
 publish](https://github.com/computorg/template-computo-r/actions/workflows/build.yml/badge.svg)](https://github.com/computorg/template-computo-r/actions/workflows/build.yml)
@@ -9,10 +9,9 @@ License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommo
 
 ### Authors
 
-- [Jane Doe](https://janedoe.someplace.themoon.org) (Name of Affiliation
-  one)
-- [John Doe](https://johndoe.someplace.themoon.org) (Name of Affiliation
-  two)
+- [Computoast](https://computoast.themoon.org) (Computo Lab)
+- [**?meta:by-author.2.name.literal**](?meta:by-author.2.url)
+  (**?meta:by-affiliation.2.name**)
 
 ### Abstract
 
